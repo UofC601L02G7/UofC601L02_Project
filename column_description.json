@@ -1,0 +1,23 @@
+{
+    "FL_DATE": "Flight Date (yyyymmdd)",
+    "OP_UNIQUE_CARRIER": "Unique Carrier Code. When the same code has been used by multiple carriers, a numeric suffix is used for earlier users, for example, PA, PA(1), PA(2). Use this field for analysis across a range of years.",
+    "OP_CARRIER_FL_NUM": "Flight Number (??????)",
+    "ORIGIN_AIRPORT_ID": "An identification number assigned by US DOT to identify a unique airport. Use this field for airport analysis across a range of years because an airport can change its airport code and airport codes can be reused.",
+    "ORIGIN_AIRPORT_SEQ_ID": "Origin Airport, Airport Sequence ID. An identification number assigned by US DOT to identify a unique airport at a given point of time. Airport attributes, such as airport name or coordinates, may change over time.",
+    "ORIGIN_CITY_MARKET_ID": "City Market ID is an identification number assigned by US DOT to identify a city market. Use this field to consolidate airports serving the same city market.",
+    "ORIGIN": "Origin Airport",
+    "ORIGIN_CITY_NAME": "Origin Airport, City Name",
+    "DEST_AIRPORT_ID": "Use this field for airport analysis across a range of years because an airport can change its airport code and airport codes can be reused.",
+    "DEST_AIRPORT_SEQ_ID": "An identification number assigned by US DOT to identify a unique airport at a given point of time. Airport attributes, such as airport name or coordinates, may change over time.",
+    "DEST_CITY_MARKET_ID": "Destination Airport, City Name",
+    "DEST": "Destination Airport",
+    "DEST_CITY_NAME": "Destination Airport, City Name",
+    "DEP_TIME": "Actual Departure Time (local time: hhmm)",
+    "DEP_DELAY": "Difference in minutes between scheduled and actual departure time. Early departures show negative numbers.",
+    "TAXI_OUT": "Taxi Out Time, in Minutes",
+    "ARR_TIME": "Actual Arrival Time (local time: hhmm)\t",
+    "ARR_DELAY": "Difference in minutes between scheduled and actual arrival time. Early arrivals show negative numbers.",
+    "CANCELLED": "Cancelled Flight Indicator (1=Yes)",
+    "CANCELLATION_CODE": "Specifies The Reason For Cancellation",
+    "DIVERTED": "Diverted Flight Indicator (1=Yes)"
+}
