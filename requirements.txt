@@ -5,3 +5,5 @@ scikit-learn
 notebook
 seaborn
 ydata-profiling
+fuzzywuzzy
+python-Levenshtein
