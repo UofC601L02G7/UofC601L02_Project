@@ -7,3 +7,5 @@ seaborn
 ydata-profiling
 fuzzywuzzy
 python-Levenshtein
+bs4
+scrapy
