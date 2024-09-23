@@ -1,0 +1,130 @@
+,ORIGIN,count,City: Airport,name,matched_name,urls
+0,ATL,17505,"Atlanta, GA: Hartsfield-Jackson Atlanta International", Hartsfield-Jackson Atlanta International Airport,Hartsfield-Jackson Atlanta International Airport,https://www.airlinequality.com/airport-reviews/atlanta-hartsfield-airport
+1,ORD,13757,"Chicago, IL: Chicago O'Hare International", Chicago O'Hare International Airport,Chicago O'Hare International Airport,https://www.airlinequality.com/airport-reviews/chicago-ohare-airport
+2,DFW,13012,"Dallas/Fort Worth, TX: Dallas/Fort Worth International", Dallas/Fort Worth International Airport,Dallas/Fort Worth International Airport,https://www.airlinequality.com/airport-reviews/dallas-fort-worth-airport
+3,DEN,12229,"Denver, CO: Denver International", Denver International Airport,Denver International Airport,https://www.airlinequality.com/airport-reviews/denver-airport
+4,LAX,9856,"Los Angeles, CA: Los Angeles International", Los Angeles International Airport,Los Angeles International Airport,https://www.airlinequality.com/airport-reviews/los-angeles-lax-airport
+5,CLT,8557,"Charlotte, NC: Charlotte Douglas International", Charlotte Douglas International Airport,Charlotte Douglas International Airport,https://www.airlinequality.com/airport-reviews/charlotte-airport
+6,PHX,8064,"Phoenix, AZ: Phoenix Sky Harbor International", Phoenix Sky Harbor International Airport,Phoenix Sky Harbor International Airport,https://www.airlinequality.com/airport-reviews/phoenix-airport
+7,LAS,7695,"Las Vegas, NV: McCarran International", McCarran International Airport,McCarran International Airport,https://www.airlinequality.com/airport-reviews/las-vegas-airport
+8,SFO,7353,"San Francisco, CA: San Francisco International", San Francisco International Airport,San Francisco International Airport,https://www.airlinequality.com/airport-reviews/san-francisco-airport
+9,SEA,7136,"Seattle, WA: Seattle/Tacoma International", Seattle/Tacoma International Airport,Seattle/Tacoma International Airport,https://www.airlinequality.com/airport-reviews/seattle-airport
+10,IAH,6952,"Houston, TX: George Bush Intercontinental/Houston", George Bush Intercontinental/Houston Airport,George Bush Intercontinental Airport,https://www.airlinequality.com/airport-reviews/houston-george-bush-intercontinental-airport
+11,MCO,6760,"Orlando, FL: Orlando International", Orlando International Airport,Orlando International Airport,https://www.airlinequality.com/airport-reviews/orlando-airport
+12,DTW,6611,"Detroit, MI: Detroit Metro Wayne County", Detroit Metro Wayne County Airport,Detroit Metropolitan Wayne County Airport,https://www.airlinequality.com/airport-reviews/detroit-airport
+13,LGA,6327,"New York, NY: LaGuardia", LaGuardia Airport,LaGuardia Airport,https://www.airlinequality.com/airport-reviews/la-guardia-airport
+14,MSP,6310,"Minneapolis, MN: Minneapolis-St Paul International", Minneapolis-St Paul International Airport,Minneapolis-St Paul International Airport,https://www.airlinequality.com/airport-reviews/minneapolis-st-paul-airport
+15,BOS,6141,"Boston, MA: Logan International", Logan International Airport,Logan International Airport,https://www.airlinequality.com/airport-reviews/boston-logan-airport
+16,EWR,5804,"Newark, NJ: Newark Liberty International", Newark Liberty International Airport,Newark Liberty International Airport,https://www.airlinequality.com/airport-reviews/newark-airport
+17,JFK,5481,"New York, NY: John F. Kennedy International", John F. Kennedy International Airport,John F. Kennedy International Airport,https://www.airlinequality.com/airport-reviews/new-york-jfk-airport
+18,SLC,5411,"Salt Lake City, UT: Salt Lake City International", Salt Lake City International Airport,Salt Lake City International Airport,https://www.airlinequality.com/airport-reviews/salt-lake-city-airport
+19,DCA,5258,"Washington, DC: Ronald Reagan Washington National", Ronald Reagan Washington National Airport,Ronald Reagan Washington National Airport,https://www.airlinequality.com/airport-reviews/washington-reagan-national-airport
+20,BWI,4709,"Baltimore, MD: Baltimore/Washington International Thurgood Marshall", Baltimore/Washington International Thurgood Marshall Airport,Baltimore/Washington International Thurgood Marshall Airport,https://www.airlinequality.com/airport-reviews/baltimore-washington-airport
+21,PHL,4396,"Philadelphia, PA: Philadelphia International", Philadelphia International Airport,Philadelphia International Airport,https://www.airlinequality.com/airport-reviews/philadelphia-airport
+22,MIA,4217,"Miami, FL: Miami International", Miami International Airport,Miami International Airport,https://www.airlinequality.com/airport-reviews/miami-airport
+23,FLL,4161,"Fort Lauderdale, FL: Fort Lauderdale-Hollywood International", Fort Lauderdale-Hollywood International Airport,Fort Lauderdale-Hollywood International Airport,https://www.airlinequality.com/airport-reviews/fort-lauderdale-airport
+24,MDW,3966,"Chicago, IL: Chicago Midway International", Chicago Midway International Airport,Chicago Midway International Airport,https://www.airlinequality.com/airport-reviews/chicago-midway-airport
+25,SAN,3911,"San Diego, CA: San Diego International", San Diego International Airport,San Diego International Airport,https://www.airlinequality.com/airport-reviews/san-diego-airport
+26,TPA,3482,"Tampa, FL: Tampa International", Tampa International Airport,Tampa International Airport,https://www.airlinequality.com/airport-reviews/tampa-airport
+27,BNA,3430,"Nashville, TN: Nashville International", Nashville International Airport,Nashville International Airport,https://www.airlinequality.com/airport-reviews/nashville-airport
+28,DAL,3335,"Dallas, TX: Dallas Love Field", Dallas Love Field Airport,Dallas Love Field Airport,https://www.airlinequality.com/airport-reviews/dallas-love-field-airport
+29,AUS,3125,"Austin, TX: Austin - Bergstrom International", Austin - Bergstrom International Airport,Bergstrom International Airport,https://www.airlinequality.com/airport-reviews/austin-airport
+30,STL,2872,"St. Louis, MO: St Louis Lambert International", St Louis Lambert International Airport,St. Louis Lambert International Airport,https://www.airlinequality.com/airport-reviews/st-louis-airport
+31,PDX,2833,"Portland, OR: Portland International", Portland International Airport,Portland International Airport,https://www.airlinequality.com/airport-reviews/portland-airport
+32,HOU,2722,"Houston, TX: William P Hobby", William P Hobby Airport,William P. Hobby Airport,https://www.airlinequality.com/airport-reviews/houston-hobby-airport
+33,IAD,2483,"Washington, DC: Washington Dulles International", Washington Dulles International Airport,Washington Dulles International Airport,https://www.airlinequality.com/airport-reviews/washington-dulles-airport
+34,HNL,2435,"Honolulu, HI: Daniel K Inouye International", Daniel K Inouye International Airport,Daniel K. Inouye International Airport,https://www.airlinequality.com/airport-reviews/honolulu-airport
+35,MSY,2370,"New Orleans, LA: Louis Armstrong New Orleans International", Louis Armstrong New Orleans International Airport,Louis Armstrong New Orleans International Airport,https://www.airlinequality.com/airport-reviews/new-orleans-airport
+36,RDU,2358,"Raleigh/Durham, NC: Raleigh-Durham International", Raleigh-Durham International Airport,Raleigh-Durham International Airport,https://www.airlinequality.com/airport-reviews/raleigh-durham-airport
+37,SJC,2342,"San Jose, CA: Norman Y. Mineta San Jose International", Norman Y. Mineta San Jose International Airport,Norman Y. Mineta San Jose International Airport,https://www.airlinequality.com/airport-reviews/san-jose-airport
+38,SMF,2329,"Sacramento, CA: Sacramento International", Sacramento International Airport,Sacramento International Airport,https://www.airlinequality.com/airport-reviews/sacramento-airport
+39,OAK,2284,"Oakland, CA: Metropolitan Oakland International", Metropolitan Oakland International Airport,Oakland International Airport,https://www.airlinequality.com/airport-reviews/oakland-airport
+40,MCI,2283,"Kansas City, MO: Kansas City International", Kansas City International Airport,Kansas City International Airport,https://www.airlinequality.com/airport-reviews/kansas-city-airport
+41,SNA,1959,"Santa Ana, CA: John Wayne Airport-Orange County", John Wayne Airport-Orange County,John Wayne Airport,https://www.airlinequality.com/airport-reviews/john-wayne-airport
+42,CLE,1934,"Cleveland, OH: Cleveland-Hopkins International", Cleveland-Hopkins International Airport,Cleveland Hopkins International Airport,https://www.airlinequality.com/airport-reviews/cleveland-airport
+43,IND,1871,"Indianapolis, IN: Indianapolis International", Indianapolis International Airport,Indianapolis International Airport,https://www.airlinequality.com/airport-reviews/indianapolis-airport
+44,SAT,1723,"San Antonio, TX: San Antonio International", San Antonio International Airport,San Antonio International Airport,https://www.airlinequality.com/airport-reviews/san-antonio-airport
+45,PIT,1718,"Pittsburgh, PA: Pittsburgh International", Pittsburgh International Airport,Pittsburgh International Airport,https://www.airlinequality.com/airport-reviews/pittsburgh-airport
+46,CMH,1699,"Columbus, OH: John Glenn Columbus International", John Glenn Columbus International Airport,John Glenn Columbus International Airport,https://www.airlinequality.com/airport-reviews/columbus-airport
+47,RSW,1692,"Fort Myers, FL: Southwest Florida International", Southwest Florida International Airport,Southwest Florida International Airport,https://www.airlinequality.com/airport-reviews/fort-myers-airport
+48,CVG,1622,"Cincinnati, OH: Cincinnati/Northern Kentucky International", Cincinnati/Northern Kentucky International Airport,Cincinnati/Northern Kentucky International Airport,https://www.airlinequality.com/airport-reviews/cincinnati-airport
+49,SJU,1366,"San Juan, PR: Luis Munoz Marin International", Luis Munoz Marin International Airport,Luis Muñoz Marín International Airport,https://www.airlinequality.com/airport-reviews/san-juan-airport
+50,OGG,1229,"Kahului, HI: Kahului Airport", Kahului Airport,Kahului Airport,https://www.airlinequality.com/airport-reviews/kahului-maui-airport
+51,JAX,1217,"Jacksonville, FL: Jacksonville International", Jacksonville International Airport,Jacksonville International Airport,https://www.airlinequality.com/airport-reviews/jacksonville-airport
+52,BDL,1139,"Hartford, CT: Bradley International", Bradley International Airport,Bradley International Airport,https://www.airlinequality.com/airport-reviews/bradley-airport
+53,PBI,1135,"West Palm Beach/Palm Beach, FL: Palm Beach International", Palm Beach International Airport,Palm Beach International Airport,https://www.airlinequality.com/airport-reviews/palm-beach-airport
+54,OMA,1061,"Omaha, NE: Eppley Airfield", Eppley Airfield Airport,Eppley Airfield,https://www.airlinequality.com/airport-reviews/omaha-airport
+55,ABQ,1054,"Albuquerque, NM: Albuquerque International Sunport", Albuquerque International Sunport Airport,Albuquerque,https://www.airlinequality.com/airport-reviews/albuquerque-airport
+56,ONT,1035,"Ontario, CA: Ontario International", Ontario International Airport,Ontario International Airport,https://www.airlinequality.com/airport-reviews/ontario-airport
+57,BUF,969,"Buffalo, NY: Buffalo Niagara International", Buffalo Niagara International Airport,Buffalo Niagara International Airport,https://www.airlinequality.com/airport-reviews/buffalo-airport
+58,OKC,967,"Oklahoma City, OK: Will Rogers World", Will Rogers World Airport,Will Rogers World Airport,https://www.airlinequality.com/airport-reviews/oklahoma-city-airport
+59,MEM,928,"Memphis, TN: Memphis International", Memphis International Airport,Memphis International Airport,https://www.airlinequality.com/airport-reviews/memphis-airport
+60,ORF,897,"Norfolk, VA: Norfolk International", Norfolk International Airport,Norfolk International Airport,https://www.airlinequality.com/airport-reviews/norfolk-airport
+61,RNO,828,"Reno, NV: Reno/Tahoe International", Reno/Tahoe International Airport,Reno–Tahoe International Airport,https://www.airlinequality.com/airport-reviews/reno-tahoe-airport
+62,RIC,815,"Richmond, VA: Richmond International", Richmond International Airport,Richmond International Airport,https://www.airlinequality.com/airport-reviews/richmond-airport
+63,TUS,790,"Tucson, AZ: Tucson International", Tucson International Airport,Tucson International Airport,https://www.airlinequality.com/airport-reviews/tucson-airport
+64,GRR,781,"Grand Rapids, MI: Gerald R. Ford International", Gerald R. Ford International Airport,Gerald R. Ford International Airport,https://www.airlinequality.com/airport-reviews/grand-rapids-airport
+65,TUL,765,"Tulsa, OK: Tulsa International", Tulsa International Airport,Tulsa International Airport,https://www.airlinequality.com/airport-reviews/tulsa-international-airport
+66,ELP,755,"El Paso, TX: El Paso International", El Paso International Airport,El Paso International Airport,https://www.airlinequality.com/airport-reviews/el-paso-airport
+67,BHM,722,"Birmingham, AL: Birmingham-Shuttlesworth International", Birmingham-Shuttlesworth International Airport,Birmingham-Shuttlesworth International Airport,https://www.airlinequality.com/airport-reviews/birmingham-shuttlesworth-airport
+68,LGB,700,"Long Beach, CA: Long Beach Airport", Long Beach Airport,Long Beach Airport,https://www.airlinequality.com/airport-reviews/long-beach-airport
+69,SAV,683,"Savannah, GA: Savannah/Hilton Head International", Savannah/Hilton Head International Airport,Savannah/Hilton Head International Airport,https://www.airlinequality.com/airport-reviews/savannah-airport
+70,DSM,646,"Des Moines, IA: Des Moines International", Des Moines International Airport,Des Moines International Airport,https://www.airlinequality.com/airport-reviews/des-moines-airport
+71,PSP,559,"Palm Springs, CA: Palm Springs International", Palm Springs International Airport,Palm Springs International Airport,https://www.airlinequality.com/airport-reviews/palm-springs-airport
+72,MYR,552,"Myrtle Beach, SC: Myrtle Beach International", Myrtle Beach International Airport,Myrtle Beach International Airport,https://www.airlinequality.com/airport-reviews/myrtle-beach-airport
+73,GSP,517,"Greer, SC: Greenville-Spartanburg International", Greenville-Spartanburg International Airport,Greenville-Spartanburg International Airport,https://www.airlinequality.com/airport-reviews/greenville-spartanburg-airport
+74,SYR,516,"Syracuse, NY: Syracuse Hancock International", Syracuse Hancock International Airport,Syracuse Hancock International Airport,https://www.airlinequality.com/airport-reviews/syracuse-hancock-airport
+75,XNA,504,"Fayetteville, AR: Northwest Arkansas Regional", Northwest Arkansas Regional Airport,Northwest Arkansas Regional Airport,https://www.airlinequality.com/airport-reviews/fayetteville-airport
+76,PNS,502,"Pensacola, FL: Pensacola International", Pensacola International Airport,Pensacola International Airport,https://www.airlinequality.com/airport-reviews/pensacola-airport
+77,MSN,485,"Madison, WI: Dane County Regional-Truax Field", Dane County Regional-Truax Field Airport,Dane County Regional Airport,https://www.airlinequality.com/airport-reviews/dane-county-regional-airport
+78,ROC,483,"Rochester, NY: Greater Rochester International", Greater Rochester International Airport,Greater Rochester International Airport,https://www.airlinequality.com/airport-reviews/greater-rochester-airport
+79,ALB,473,"Albany, NY: Albany International", Albany International Airport,Albany International Airport	,https://www.airlinequality.com/airport-reviews/albany-airport
+80,COS,454,"Colorado Springs, CO: City of Colorado Springs Municipal", City of Colorado Springs Municipal Airport,City of Colorado Springs Municipal Airport,https://www.airlinequality.com/airport-reviews/colorado-springs-airport
+81,HPN,451,"White Plains, NY: Westchester County", Westchester County Airport,Westchester County Airport,https://www.airlinequality.com/airport-reviews/westchester-county-airport
+82,ICT,450,"Wichita, KS: Wichita Dwight D Eisenhower National", Wichita Dwight D Eisenhower National Airport,Wichita Dwight D. Eisenhower National Airport,https://www.airlinequality.com/airport-reviews/wichita-airport
+83,PWM,429,"Portland, ME: Portland International Jetport", Portland International Jetport Airport,Portland International Airport,https://www.airlinequality.com/airport-reviews/portland-airport
+84,GSO,428,"Greensboro/High Point, NC: Piedmont Triad International", Piedmont Triad International Airport,Piedmont Triad International Airport,https://www.airlinequality.com/airport-reviews/piedmont-triad-airport
+85,BZN,382,"Bozeman, MT: Bozeman Yellowstone International", Bozeman Yellowstone International Airport,Bozeman Yellowstone International Airport,https://www.airlinequality.com/airport-reviews/bozeman-yellowstone-airport
+86,MHT,335,"Manchester, NH: Manchester-Boston Regional", Manchester-Boston Regional Airport,Manchester–Boston Regional Airport,https://www.airlinequality.com/airport-reviews/manchester-boston-regional-airport
+87,LEX,331,"Lexington, KY: Blue Grass", Blue Grass Airport,Blue Grass Airport,https://www.airlinequality.com/airport-reviews/lexington-airport
+88,SGF,326,"Springfield, MO: Springfield-Branson National", Springfield-Branson National Airport,Springfield–Branson National Airport,https://www.airlinequality.com/airport-reviews/springfield-branson-airport
+89,BTV,315,"Burlington, VT: Burlington International", Burlington International Airport,Burlington International Airport,https://www.airlinequality.com/airport-reviews/burlington-airport
+90,ASE,293,"Aspen, CO: Aspen Pitkin County Sardy Field", Aspen Pitkin County Sardy Field Airport,Aspen Pitkin County,https://www.airlinequality.com/airport-reviews/aspen-pitkin-county-airport
+91,CAE,282,"Columbia, SC: Columbia Metropolitan", Columbia Metropolitan Airport,Columbia Metropolitan Airport,https://www.airlinequality.com/airport-reviews/columbia-metropolitan-airport
+92,FAR,281,"Fargo, ND: Hector International", Hector International Airport,Hector International Airport,https://www.airlinequality.com/airport-reviews/fargo-airport
+93,PIE,281,"St. Petersburg, FL: St Pete Clearwater International", St Pete Clearwater International Airport,St. Pete–Clearwater International Airport,https://www.airlinequality.com/airport-reviews/st-pete-clearwater-international-airport
+94,SBN,280,"South Bend, IN: South Bend International", South Bend International Airport,South Bend International Airport,https://www.airlinequality.com/airport-reviews/south-bend-airport
+95,SFB,276,"Sanford, FL: Orlando Sanford International", Orlando Sanford International Airport,Orlando Sanford International Airport,https://www.airlinequality.com/airport-reviews/orlando-sanford-airport
+96,ITO,274,"Hilo, HI: Hilo International", Hilo International Airport,Hilo International Airport,https://www.airlinequality.com/airport-reviews/hilo-airport
+97,MFR,263,"Medford, OR: Rogue Valley International - Medford", Rogue Valley International - Medford Airport,Rogue Valley International–Medford Airport,https://www.airlinequality.com/airport-reviews/rogue-valley-medford-airport
+98,EYW,253,"Key West, FL: Key West International", Key West International Airport,Key West International Airport,https://www.airlinequality.com/airport-reviews/key-west-intl-airport
+99,ISP,250,"Islip, NY: Long Island MacArthur", Long Island MacArthur Airport,Long Island MacArthur Airport,https://www.airlinequality.com/airport-reviews/long-island-macarthur-airport
+100,FWA,248,"Fort Wayne, IN: Fort Wayne International", Fort Wayne International Airport,Fort Wayne International Airport,https://www.airlinequality.com/airport-reviews/fort-wayne-airport
+101,CAK,241,"Akron, OH: Akron-Canton Regional", Akron-Canton Regional Airport,Akron–Canton,https://www.airlinequality.com/airport-reviews/akron-canton-airport
+102,SHV,233,"Shreveport, LA: Shreveport Regional", Shreveport Regional Airport,Shreveport Regional Airport,https://www.airlinequality.com/airport-reviews/shreveport-airport
+103,TLH,231,"Tallahassee, FL: Tallahassee International", Tallahassee International Airport,Tallahassee International Airport,https://www.airlinequality.com/airport-reviews/tallahassee-airport
+104,MDT,230,"Harrisburg, PA: Harrisburg International", Harrisburg International Airport,Harrisburg International Airport,https://www.airlinequality.com/airport-reviews/harrisburg-airport
+105,GRB,224,"Green Bay, WI: Green Bay Austin Straubel International", Green Bay Austin Straubel International Airport,Austin Straubel International Airport,https://www.airlinequality.com/airport-reviews/green-bay-airport
+106,STT,224,"Charlotte Amalie, VI: Cyril E King", Cyril E King Airport,Cyril E. King Airport,https://www.airlinequality.com/airport-reviews/st-thomas-airport
+107,RAP,219,"Rapid City, SD: Rapid City Regional", Rapid City Regional Airport,Rapid City Regional Airport,https://www.airlinequality.com/airport-reviews/rapid-city-regional-airport
+108,ATW,211,"Appleton, WI: Appleton International", Appleton International Airport,Appleton International Airport,https://www.airlinequality.com/airport-reviews/outagamie-county-airport
+109,JAC,206,"Jackson, WY: Jackson Hole", Jackson Hole Airport,Jackson Hole Airport,https://www.airlinequality.com/airport-reviews/jackson-hole-airport
+110,PSC,204,"Pasco/Kennewick/Richland, WA: Tri Cities", Tri Cities Airport,Tri-Cities Airport,https://www.airlinequality.com/airport-reviews/tri-cities-airport
+111,PGD,200,"Punta Gorda, FL: Punta Gorda Airport", Punta Gorda Airport,Punta Gorda Airport,https://www.airlinequality.com/airport-reviews/punta-gorda-airport
+112,CRP,192,"Corpus Christi, TX: Corpus Christi International", Corpus Christi International Airport,Corpus Christi International Airport,https://www.airlinequality.com/airport-reviews/corpus-christi-airport
+113,BIS,186,"Bismarck/Mandan, ND: Bismarck Municipal", Bismarck Municipal Airport,Bismarck Municipal Airport,https://www.airlinequality.com/airport-reviews/bismarck-airport
+114,FAI,186,"Fairbanks, AK: Fairbanks International", Fairbanks International Airport,Fairbanks International Airport,https://www.airlinequality.com/airport-reviews/fairbanks-airport
+115,MOB,185,"Mobile, AL: Mobile Regional", Mobile Regional Airport,Mobile Regional Airport,https://www.airlinequality.com/airport-reviews/mobile-regional-airport
+116,MRY,175,"Monterey, CA: Monterey Regional", Monterey Regional Airport,Monterey Regional Airport,https://www.airlinequality.com/airport-reviews/monterey-regional-airport
+117,GPT,174,"Gulfport/Biloxi, MS: Gulfport-Biloxi International", Gulfport-Biloxi International Airport,Gulfport–Biloxi International Airport,https://www.airlinequality.com/airport-reviews/gulfport-airport
+118,FCA,155,"Kalispell, MT: Glacier Park International", Glacier Park International Airport,Glacier Park International Airport,https://www.airlinequality.com/airport-reviews/glacier-park-airport
+119,MGM,134,"Montgomery, AL: Montgomery Regional", Montgomery Regional Airport,Montgomery Regional Airport,https://www.airlinequality.com/airport-reviews/montgomery-regional-airport
+120,RST,132,"Rochester, MN: Rochester International", Rochester International Airport,Greater Rochester International Airport,https://www.airlinequality.com/airport-reviews/greater-rochester-airport
+121,IDA,130,"Idaho Falls, ID: Idaho Falls Regional", Idaho Falls Regional Airport,Idaho Falls Regional Airport,https://www.airlinequality.com/airport-reviews/idaho-falls-regional-airport
+122,MLU,129,"Monroe, LA: Monroe Regional", Monroe Regional Airport,Monroe Regional Airport,https://www.airlinequality.com/airport-reviews/monroe-regional-airport
+123,TRI,125,"Bristol/Johnson City/Kingsport, TN: Tri Cities", Tri Cities Airport,Tri-Cities Airport,https://www.airlinequality.com/airport-reviews/tri-cities-airport
+124,AEX,120,"Alexandria, LA: Alexandria International", Alexandria International Airport,Alexandria International,https://www.airlinequality.com/airport-reviews/alexandria-intl-airport
+125,BMI,118,"Bloomington/Normal, IL: Central Illinois Regional", Central Illinois Regional Airport,Central Illinois Regional Airport,https://www.airlinequality.com/airport-reviews/bloomington-airport
+126,DAB,116,"Daytona Beach, FL: Daytona Beach International", Daytona Beach International Airport,Daytona Beach International Airport,https://www.airlinequality.com/airport-reviews/daytona-beach-airport
+127,ROA,116,"Roanoke, VA: Roanoke Blacksburg Regional Woodrum Field", Roanoke Blacksburg Regional Woodrum Field Airport,Roanoke–Blacksburg Regional Airport,https://www.airlinequality.com/airport-reviews/roanoke-regional-airport
+128,MLB,95,"Melbourne, FL: Melbourne International", Melbourne International Airport,Orlando Melbourne International Airport,https://www.airlinequality.com/airport-reviews/melbourne-usa-airport

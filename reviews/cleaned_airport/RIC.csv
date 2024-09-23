@@ -1,0 +1,8 @@
+datePublished,ratingValue,travellerType,queueTime,terminalCleanliness,terminalSeating,terminalSign,foodBeverage,airportShopping,wifiConnectivity,airportStaff,commentHeader,tripVerified,reviewContent,sentiment
+2022-05-16,0.5,Business,1.0,1.0,1.0,2.0,2.0,2.0,2.0,2.0,TSA pre check is so slow,False,"  TSA pre check is so slow. It’s supposed to be faster than general boarding, that’s what I’m paying for. The lady doing the check in appears to be new or just slow. She needs help. 7am, 5/16/22.",-1
+2020-06-08,0.1,Solo Leisure,5.0,2.0,3.0,5.0,0.0,,,1.0,TSA was extremely rude,True,"  Never had a problem til now. TSA was extremely rude, they were pushing everyone around, not just me. Speaking to me as if I were a child. This was 8th June at 6 am. No respect whatsoever, very unprofessional. It was obvious they were abusing their authority",-1
+2018-08-09,0.1,Business,3.0,3.0,2.0,3.0,1.0,1.0,3.0,1.0,This was the worst airport,False,  This was the worst airport I have ever been to. The people are extremely rude and short. It seemed like common behavior from the TSA agents to the store/restaurant clerks. Seems like the pre requisite to work here is you have to be rude. I will avoid this airport at all costs in the future.,-1
+2013-07-09,0.5,,4.0,4.0,,,,3.0,,,Richmond Airport customer review,False,,-1
+2012-02-23,0.9,,5.0,5.0,,,,5.0,,,Richmond Airport customer review,False,,1
+2009-07-12,0.5,,,,,,,,,,Richmond Airport customer review,False,,-1
+2008-08-13,0.5,,,,,,,,,,Richmond Airport customer review,False,,-1
