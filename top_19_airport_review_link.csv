@@ -1,0 +1,20 @@
+ORIGIN,count,City: Airport,name,matched_name,urls
+ATL,17505,"Atlanta, GA: Hartsfield-Jackson Atlanta International", Hartsfield-Jackson Atlanta International Airport,Hartsfield-Jackson Atlanta International Airport,https://www.airlinequality.com/airport-reviews/atlanta-hartsfield-airport
+ORD,13757,"Chicago, IL: Chicago O'Hare International", Chicago O'Hare International Airport,Chicago O'Hare International Airport,https://www.airlinequality.com/airport-reviews/chicago-ohare-airport
+DFW,13012,"Dallas/Fort Worth, TX: Dallas/Fort Worth International", Dallas/Fort Worth International Airport,Dallas/Fort Worth International Airport,https://www.airlinequality.com/airport-reviews/dallas-fort-worth-airport
+DEN,12229,"Denver, CO: Denver International", Denver International Airport,Denver International Airport,https://www.airlinequality.com/airport-reviews/denver-airport
+LAX,9856,"Los Angeles, CA: Los Angeles International", Los Angeles International Airport,Los Angeles International Airport,https://www.airlinequality.com/airport-reviews/los-angeles-lax-airport
+CLT,8557,"Charlotte, NC: Charlotte Douglas International", Charlotte Douglas International Airport,Charlotte Douglas International Airport,https://www.airlinequality.com/airport-reviews/charlotte-airport
+PHX,8064,"Phoenix, AZ: Phoenix Sky Harbor International", Phoenix Sky Harbor International Airport,Phoenix Sky Harbor International Airport,https://www.airlinequality.com/airport-reviews/phoenix-airport
+LAS,7695,"Las Vegas, NV: McCarran International", McCarran International Airport,McCarran International Airport,https://www.airlinequality.com/airport-reviews/las-vegas-airport
+SFO,7353,"San Francisco, CA: San Francisco International", San Francisco International Airport,San Francisco International Airport,https://www.airlinequality.com/airport-reviews/san-francisco-airport
+SEA,7136,"Seattle, WA: Seattle/Tacoma International", Seattle/Tacoma International Airport,Seattle/Tacoma International Airport,https://www.airlinequality.com/airport-reviews/seattle-airport
+MCO,6760,"Orlando, FL: Orlando International", Orlando International Airport,Orlando International Airport,https://www.airlinequality.com/airport-reviews/orlando-airport
+JFK,5481,"New York, NY: John F. Kennedy International", John F. Kennedy International Airport,John F. Kennedy International Airport,https://www.airlinequality.com/airport-reviews/new-york-jfk-airport
+EWR,5804,"Newark, NJ: Newark Liberty International", Newark Liberty International Airport,Newark Liberty International Airport,https://www.airlinequality.com/airport-reviews/newark-airport
+MIA,4217,"Miami, FL: Miami International", Miami International Airport,Miami International Airport,https://www.airlinequality.com/airport-reviews/miami-airport
+DAL,3335,"Dallas, TX: Dallas Love Field", Dallas Love Field Airport,Dallas Love Field Airport,https://www.airlinequality.com/airport-reviews/dallas-love-field-airport
+PDX,2833,"Portland, OR: Portland International", Portland International Airport,Portland International Airport,https://www.airlinequality.com/airport-reviews/portland-airport
+STL,2872,"St. Louis, MO: St Louis Lambert International", St Louis Lambert International Airport,St. Louis Lambert International Airport,https://www.airlinequality.com/airport-reviews/st-louis-airport
+RDU,2358,"Raleigh/Durham, NC: Raleigh-Durham International", Raleigh-Durham International Airport,Raleigh-Durham International Airport,https://www.airlinequality.com/airport-reviews/raleigh-durham-airport
+HOU,2722,"Houston, TX: William P Hobby", William P Hobby Airport,William P. Hobby Airport,https://www.airlinequality.com/airport-reviews/houston-hobby-airport
