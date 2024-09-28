@@ -9,3 +9,5 @@ fuzzywuzzy
 python-Levenshtein
 bs4
 scrapy
+plotly
+seaborn
