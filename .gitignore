@@ -1,3 +1,6 @@
 .ipynb_checkpoints/
+.legacy/
 *.bat
-data/
+data/Total_Data_10Y_Top18.zip
+data/Total_Data_10Y_Top23.csv
+data/Total_Data_10Y_Top24.csv
