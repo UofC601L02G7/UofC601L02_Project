@@ -1,0 +1,101 @@
+Code,Description
+0,No significant weather observed
+1,Cloud development not observed or not observable
+2,State of the sky generally unchanged
+3,Sky becoming clearer
+4,Visibility reduced by smoke
+5,Haze
+6,"Widespread dust in suspension in the air, visibility reduced"
+7,"Dust or sand raised by the wind, no duststorm or sandstorm"
+8,"Dust whirl(s) seen, no duststorm or sandstorm"
+9,"Duststorm or sandstorm within sight, but not at the station"
+10,"Light drizzle, intermittent"
+11,"Light drizzle, continuous"
+12,"Moderate drizzle, intermittent"
+13,"Moderate drizzle, continuous"
+14,"Heavy drizzle, intermittent"
+15,"Heavy drizzle, continuous"
+16,"Freezing drizzle, slight, intermittent"
+17,"Freezing drizzle, slight, continuous"
+18,"Freezing drizzle, moderate, intermittent"
+19,"Freezing drizzle, moderate, continuous"
+20,"Drizzle and rain, slight"
+21,"Drizzle and rain, moderate"
+22,"Drizzle and rain, heavy"
+23,"Drizzle and snow, slight"
+24,"Drizzle and snow, moderate or heavy"
+25,"Rain and snow, slight"
+26,"Rain and snow, moderate or heavy"
+27,"Snow, intermittent"
+28,"Snow, continuous"
+29,"Rain, sleet, or snow with thunder"
+30,"Slight duststorm or sandstorm within the past hour, no longer observed"
+31,"Moderate or heavy duststorm or sandstorm within the past hour, no longer observed"
+32,Slight duststorm or sandstorm decreasing
+33,Moderate or heavy duststorm or sandstorm decreasing
+34,"Slight duststorm or sandstorm within sight, not at the station"
+35,"Moderate or heavy duststorm or sandstorm within sight, not at the station"
+36,"Slight duststorm or sandstorm, increasing"
+37,"Moderate or heavy duststorm or sandstorm, increasing"
+38,"Duststorm or sandstorm in progress, slight"
+39,"Duststorm or sandstorm in progress, moderate or heavy"
+40,Fog at a distance
+41,Fog in patches
+42,Fog thinning
+43,Fog thickening
+44,"Fog or ice fog, sky visible, visibility increasing"
+45,"Fog or ice fog, sky visible, visibility decreasing"
+46,"Fog, sky invisible, visibility increasing"
+47,"Fog, sky invisible, visibility decreasing"
+48,"Fog, depositing rime, sky visible"
+49,"Fog, depositing rime, sky invisible"
+50,Slight drizzle
+51,Moderate drizzle
+52,Heavy drizzle
+53,Slight freezing drizzle
+54,Moderate freezing drizzle
+55,Heavy freezing drizzle
+56,Slight rain and drizzle
+57,Moderate rain and drizzle
+58,Heavy rain and drizzle
+59,Freezing rain
+60,"Light rain, not freezing"
+61,"Moderate rain, not freezing"
+62,"Heavy rain, not freezing"
+63,Light freezing rain
+64,Moderate freezing rain
+65,Heavy freezing rain
+66,Light snow
+67,Moderate snow
+68,Heavy snow
+69,Ice pellets
+70,"Slight snow, intermittent"
+71,"Moderate snow, intermittent"
+72,"Heavy snow, intermittent"
+73,"Slight snow, continuous"
+74,"Moderate snow, continuous"
+75,"Heavy snow, continuous"
+76,Diamond dust
+77,Snow grains
+78,Ice crystals
+79,"Ice pellets, moderate or heavy"
+80,Isolated rain showers
+81,Scattered rain showers
+82,Frequent rain showers
+83,"Rain showers, slight"
+84,"Rain showers, moderate or heavy"
+85,"Snow showers, slight"
+86,"Snow showers, moderate or heavy"
+87,Mixed snow and rain showers
+88,Snow grains
+89,Thunderstorm with slight precipitation
+90,Thunderstorm with moderate or heavy precipitation
+91,"Thunderstorm, slight, in the past hour"
+92,"Thunderstorm, moderate or heavy, in the past hour"
+93,Thunderstorm with slight hail
+94,Thunderstorm with moderate or heavy hail
+95,Thunderstorm with slight rain
+96,Thunderstorm with moderate or heavy rain
+97,"Thunderstorm, slight, with squall"
+98,"Thunderstorm, moderate or heavy, with squall"
+99,Tornado or waterspout
