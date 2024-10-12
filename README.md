@@ -6,9 +6,22 @@ The U.S. aviation industry faces a critical challenge: Spirit Airlines' strategi
 
 This report delves into U.S. flight delays and cancellations, scrutinizing hub hotspots and weather-vulnerable regions. By empowering travelers with delay-prone airport and airline information, this project aims to ease disruptions and enhance the flying experience.
 
-## Data Cleaning
+## Data Acquisition & Cleaning
 
-- [Custom Text](http://www.example.com)
+- [Data Cleaning](https://uofc601l02g7.github.io/UofC601L02_Project/html/DataPrep-Cleaning.html)
+- [Skytrax Scraper](https://uofc601l02g7.github.io/UofC601L02_Project/html/DataPrep-Skytrax-Scraper.html)
+
+## Data Analysis
+
+- [Airport](https://uofc601l02g7.github.io/UofC601L02_Project/html/Geoffrey-Airport.html)
+- [Airline](https://uofc601l02g7.github.io/UofC601L02_Project/html/Geoffrey-Carrier.html)
+- [Aircraft](https://uofc601l02g7.github.io/UofC601L02_Project/html/Geoffrey-Carrier.html)
+- [Routes](https://uofc601l02g7.github.io/UofC601L02_Project/html/Geoffrey-Route-Suggestion.html)
+- [General Analysis](https://uofc601l02g7.github.io/UofC601L02_Project/html/Chibuzo-Flight%20delay%20analysis.html)
+
+## Presentation & Reports
+
+- [Presentation](https://uofc601l02g7.github.io/UofC601L02_Project/pdf/Presentation.pdf)
 
 ## How to use
 
