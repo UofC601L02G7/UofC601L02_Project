@@ -13,6 +13,7 @@ This report delves into U.S. flight delays and cancellations, scrutinizing hub h
 
 ## Data Analysis
 
+- [Weather](https://uofc601l02g7.github.io/UofC601L02_Project/html/Youssef_Cancellations_Disruptions_Weather.html)
 - [Airport](https://uofc601l02g7.github.io/UofC601L02_Project/html/Geoffrey-Airport.html)
 - [Airline](https://uofc601l02g7.github.io/UofC601L02_Project/html/Geoffrey-Carrier.html)
 - [Aircraft](https://uofc601l02g7.github.io/UofC601L02_Project/html/Geoffrey-Carrier.html)
@@ -36,3 +37,5 @@ This report delves into U.S. flight delays and cancellations, scrutinizing hub h
 5. Run `pip install -r requirements.txt`
 
 6. Run `jupyter notebook`
+
+![cover image](/Presentation/Airline_Cancellation_Code.png)
