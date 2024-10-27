@@ -22,6 +22,7 @@ This report delves into U.S. flight delays and cancellations, scrutinizing hub h
 
 ## Presentation & Reports
 
+- [PDF Report](https://uofc601l02g7.github.io/UofC601L02_Project/pdf/601-L02-T7-Final-Report.pdf)
 - [Presentation](https://uofc601l02g7.github.io/UofC601L02_Project/pdf/Presentation.pdf)
 
 ## How to use
